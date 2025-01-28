@@ -44,7 +44,7 @@ Um formulário interativo e dinâmico para coletar avaliações de usuários sob
     npm run dev  
     ```  
 
-5. Abra o navegador e acesse [http://localhost:5173](http://localhost:5173) para utilizar a calculadora.  
+5. Abra o navegador e acesse [http://localhost:5173](http://localhost:5173)
 
 ## Visualização 👀  
 
